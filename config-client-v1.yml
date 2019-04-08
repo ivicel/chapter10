@@ -4,4 +4,4 @@ server:
 
 # 当前版本信息 
 version:
-  message: '{cipher}011bfe450bb6c75cc8dbfb72e427746514e4fcaec838dd9f5f6ae57879a006e4187836a80f2f7f8254bf506049b34612'
+  message: v1
